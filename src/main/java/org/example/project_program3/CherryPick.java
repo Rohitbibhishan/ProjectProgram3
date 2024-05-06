@@ -10,4 +10,9 @@ public class CherryPick {
         return "This is Cherry Pick method from master branch second time ";
 
     }
+
+    public String CherryPickMain() {
+        return "This is Cherry Pick Main method() from master branch Third time";
+
+    }
 }
