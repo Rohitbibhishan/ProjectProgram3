@@ -15,4 +15,9 @@ public class CherryPick {
         return "This is Cherry Pick Main method() from master branch Third time";
 
     }
+
+    public String FinalMethod() {
+        return "Final method from Master branch-Wrong commit";
+
+    }
 }
