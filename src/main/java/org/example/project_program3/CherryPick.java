@@ -18,6 +18,7 @@ public class CherryPick {
 
     public String FinalMethod() {
         return "Final method from Master branch-Wrong commit";
+        //Commit message update
 
     }
 }
